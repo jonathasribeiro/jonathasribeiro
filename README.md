@@ -1,22 +1,20 @@
-#Jonathas Ribeiro smiley
-#####FULLSTACK DEVELOPER | Javascript | React | React Native | Node | Adonis
+# Jonathas Ribeiro 😃
+FULLSTACK DEVELOPER | Javascript | Typescript | React | React Native | Node | Adonis
 
-monocle_face Sobre 
+## 🧐 About
 Progamado com Javascript a mais de 3 anos, especializado na Stack Node / React / React Native a mais de 2 anos, apaixonado pela vida, e sempre em busca de novos desafios! 
 
-zap Technologies
-Talk to me about
+## ⚡ Technologies
+Fale comigo a Respeito
 
-Front-end development using Angular, React, VanillaJS
-Backend development using ASP.NET Core, Node, Express
-Architectural design for Relational Database Management Systems as well as for NoSQL database systems like Cassandra / DataStax
-Robust full-stack system design implementation
-Desktop application development using UWP, WPF or WinForms
-Mobile application development using Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic
-Creating scalable cloud architecture using Microsoft Azure
-Project Management and CD/CI using Azure DevOps
+- Front-end development - **React, VanillaJS**
+- Backend development using **Node, Adonis, Express**
+- Database Management with **Sequelize** and **MYSQL, POSTGRESSQL**
+- Robust full-stack system design implementation
+- Mobile application development using **React Native**
+- Creating scalable cloud architecture using **DigitalOcean**
+- Project Management and CD/CI using **DigitalOcean**
 
-mailbox Contact Me
-Twitter - @gauravc12
-LinkedIn - Gaurav Chouhan
-Blog - GC Codes
+## 📫 Contact Me
+- LinkedIn - [Jonathas Ribeiro](https://in.linkedin.com/in/jonathasribeiro151)
+- Email - (jonathasribeiroreal@gmail.com)
