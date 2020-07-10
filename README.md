@@ -15,6 +15,6 @@ Fale comigo a Respeito
 - Creating scalable cloud architecture using **DigitalOcean**
 - Project Management and CD/CI using **DigitalOcean**
 
-## 📫 Contact Me
+## 📫 Meus Contatos
 - LinkedIn - [Jonathas Ribeiro](https://in.linkedin.com/in/jonathasribeiro151)
 - Email - (jonathasribeiroreal@gmail.com)
