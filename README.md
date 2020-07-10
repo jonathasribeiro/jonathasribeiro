@@ -12,7 +12,6 @@ Fale comigo a Respeito
 - Database Management with **Sequelize** and **MYSQL, POSTGRESSQL**
 - Robust full-stack system design implementation
 - Mobile application development using **React Native**
-- Creating scalable cloud architecture using **DigitalOcean**
 - Project Management and CD/CI using **DigitalOcean**
 
 ## 📫 Meus Contatos
