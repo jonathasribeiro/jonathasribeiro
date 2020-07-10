@@ -4,7 +4,7 @@ FULLSTACK DEVELOPER | Javascript | Typescript | React | React Native | Node | Ad
 ## 🧐 About
 Progamado com Javascript a mais de 3 anos, especializado na Stack Node / React / React Native a mais de 2 anos, apaixonado pela vida, e sempre em busca de novos desafios! 
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 Fale comigo a Respeito
 
 - Front-end development - **React, VanillaJS**
