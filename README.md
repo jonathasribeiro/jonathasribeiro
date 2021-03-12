@@ -1,5 +1,5 @@
 # Jonathas Ribeiro 😃
-Fullstack Developer | Javascript | Typescript | React | React Native | Node | Adonis | Docker
+Fullstack Developer | Javascript | Typescript | React | React Native | Node | Adonis | Docker | Python
 
 ## 🧐 Sobre
 Desenvolvo com Javascript a mais de 3 anos, especializado na Stack Node / React / React Native a mais de 2 anos, apaixonado pela vida, e sempre em busca de novos desafios! 
