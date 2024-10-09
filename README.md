@@ -2,7 +2,7 @@
 Fullstack Developer | Javascript | Typescript | React | React Native | Node | Adonis | Docker | Python
 
 ## 🧐 Sobre
-Desenvolvo com Javascript a mais de 5 anos, especializado na Stack Node / React / React Native a mais de 2 anos, apaixonado pela vida, e sempre em busca de novos desafios! 
+Desenvolvo com Javascript a mais de 6 anos, especializado na Stack Node / React / React Native / Angular a mais de 5 anos, apaixonado pela vida, e sempre em busca de novos desafios! 
 
 ## ⚡ Tecnologias
 Fale comigo a Respeito
