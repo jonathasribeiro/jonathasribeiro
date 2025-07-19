@@ -42,8 +42,8 @@ I'm passionate about solving real-world problems through clean code, thoughtful 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasribeiro151&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasribeiro151&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasribeiro&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
