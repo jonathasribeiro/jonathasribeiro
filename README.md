@@ -9,7 +9,7 @@
 Experienced Fullstack Developer with 6+ years crafting performant, scalable and maintainable web and mobile applications.  
 Specialized in **modern JavaScript/TypeScript stacks** with deep expertise across frontend, backend, mobile, infrastructure and cloud.
 
-I love building high-quality products, working closely with teams and continuously learning new technologies. Open for **remote and global opportunities**.
+I love building high-quality products, working closely with teams and continuously learning new technologies.
 
 ---
 
@@ -106,5 +106,3 @@ I love building high-quality products, working closely with teams and continuous
 - 📱 [WhatsApp](https://wa.me/5511942303502)  
 
 ---
-
-🌍 Open for opportunities worldwide — let’s connect and build amazing things together!
